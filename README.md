@@ -27,7 +27,7 @@ To run this project, you need the following:
 - **Clone the Repository**
 ```bash
 Copy code
-git clone https://github.com/your-username/goszakup-scraper.git
+git clone https://github.com/adilet-shymyr/gz-scraper.git
 cd goszakup-scraper
 ```
 
