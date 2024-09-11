@@ -10,10 +10,10 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-pd.set_option('display.max_rows', None)  # Показывать все строки
-pd.set_option('display.max_columns', None)  # Показывать все столбцы
-pd.set_option('display.width', None)  # Не обрезать ширину таблицы
-pd.set_option('display.max_colwidth', None)  # Не обрезать ширину столбцов
+pd.set_option('display.max_rows', None)  
+pd.set_option('display.max_columns', None)  
+pd.set_option('display.width', None)  
+pd.set_option('display.max_colwidth', None)  
 year = '2021'
 # BIN list
 bins = [
