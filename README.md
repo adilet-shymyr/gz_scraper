@@ -28,7 +28,7 @@ To run this project, you need the following:
 ```bash
 Copy code
 git clone https://github.com/adilet-shymyr/gz-scraper.git
-cd goszakup-scraper
+cd gz-scraper
 ```
 
 - **Creating the Virtual Environment**
